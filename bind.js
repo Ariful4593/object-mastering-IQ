@@ -18,9 +18,10 @@ const personTwo = {
     salary: 25000
 }
 
-const personChargeBill = normalPerson.chargeBill.bind(personTwo);
-// console.log(personChargeBill(1000));
+// const personChargeBill = normalPerson.chargeBill.bind(personTwo);
+// // console.log(personChargeBill(1000));
 
-console.log(normalPerson.chargeBill(10000))
+// console.log(normalPerson.chargeBill(10000))
 
-// console.log(normalPerson.salary)
+// // console.log(normalPerson.salary)
+
